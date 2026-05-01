@@ -21,13 +21,17 @@ Created AmazonS3FullAccess user with full S3 permissions — can upload, delete,
 Step 4 — Compared Both Users
 Verified both users exist in IAM with different permission levels — demonstrating the principle of least privilege.
 
-📸 Screenshots
-User added to ReadOnly-Group with AmazonS3ReadOnlyAccess
-Show Image
-Review and create — suhani-readonly-user
-Show Image
-All IAM users listed
-Show Image
+
+## 📸 Screenshots
+
+### User added to ReadOnly-Group with AmazonS3ReadOnlyAccess
+![IAM Group](screenshots/aws2.png)
+
+### Review and create — suhani-readonly-user
+![IAM Review](screenshots/aws_1.png)
+
+### All IAM users listed
+![IAM Users](screenshots/aws3.png)
 
 
 💡 What I Learned
