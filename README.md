@@ -34,6 +34,7 @@ Verified both users exist in IAM with different permission levels — demonstrat
 ![IAM Users](screenshots/aws3.png)
 
 
+
 💡 What I Learned
 
 Principle of Least Privilege — always give users only the minimum permissions they need
