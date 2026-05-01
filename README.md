@@ -23,15 +23,9 @@ Verified both users exist in IAM with different permission levels — demonstrat
 
 
 ## 📸 Screenshots
-
-### User added to ReadOnly-Group with AmazonS3ReadOnlyAccess
-![IAM Group](screenshots/aws2.png)
-
-### Review and create — suhani-readonly-user
-![IAM Review](screenshots/aws_1.png)
-
-### All IAM users listed
-![IAM Users](screenshots/aws3.png)
+![IAM Group](aws2.png)
+![IAM Review](aws%201.png)
+![IAM Users](aws3.png)
 
 
 
